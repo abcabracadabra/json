@@ -3,7 +3,7 @@
   "symbol": "ABC",
   "description": "Thanks to the NFT you bought on the MagicEden site, you have earned the right to free Mint.🥳 \n\n ABC - Abracadabra A collection of 10K immutable NFTs, 0% royalties. Made to remind you of how fun things were when we were kids, before growing up - lets never stop having fun! \n\nYou can have your free Mint right to our limited NFT collection during the day on our site.🔽",
   "seller_fee_basis_points": 100,
-  "external_url": "https://abc-abracadabra-wt.netlify.app",
+  "external_url": "https://abc-abracadabra.web.app",
   "edition": "Alpha",
   "background_color": "000000",
   "attributes": [
@@ -20,7 +20,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "mag1cqJMr5WeycmET2UyLU5ZEH3uNUCnvMywBdUxAm5",
+        "address": "J63GWMqR15Vvq9Ju5V1GGhFnMqZ2VcTP3dE8Qrjr2Njq",
         "share": 100
       }
     ],
